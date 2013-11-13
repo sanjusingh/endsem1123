@@ -3,10 +3,10 @@ public class Team {
 	Member member;
 	ProductOwner productOwner;
 	ScrumMaster scrumMaster;
-	Customer customer;
+	custumers_main customer;
 
 	public Team(Member member, ProductOwner productOwner,
-			ScrumMaster scrumMaster, Customer customer) {
+			ScrumMaster scrumMaster, custumers_main customer) {
 		this.member=member;
 		this.productOwner=productOwner;
 		this.scrumMaster=scrumMaster;

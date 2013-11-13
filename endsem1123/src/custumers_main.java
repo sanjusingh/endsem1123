@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class Customer implements Employee{
+public class custumers_main implements Employee{
 	String memberType;
 	List<String> task = new ArrayList<String>();
 	@Override
